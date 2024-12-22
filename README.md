@@ -1,1 +1,1 @@
-# curry.html
+# studing.html
